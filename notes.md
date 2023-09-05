@@ -33,3 +33,8 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
 - Caso eu dê push em uma pasta ou arquivo no github e depois pretendo tirar, isto é, colocar no .gitignore, eu dou um comando no git da seguinte forma:
 
     git rm -r --cached .
+
+## 7. Gitkeep
+-Ao contrário do gitignore, o gitkeep serve para preservar pastas sem conteúdo, com o intuito de mostrá-las no github. Sem o gitkeep, pastas vazias não aparecem. Para criar o gitkeep, basta criar uma pasta vazia e incluir o seguinte arquivo dentro dela:
+
+    .gitkeep
