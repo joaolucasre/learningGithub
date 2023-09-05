@@ -39,5 +39,7 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
 
     .gitkeep
 
-## Historico de Commits no Github
+## 8. Historico de Commits no Github
 - Para visualizar o histórico de commits pushados para o github, basta no número de commits realizados na parte superior direita.
+
+## 9. Git Clone
