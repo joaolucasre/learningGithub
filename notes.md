@@ -25,3 +25,11 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
     git add .
     git commit -m "new atualization"
     git push
+
+## 5. Gitignore
+- Trata-se de um arquivo onde eu posso colocar pastas e/ou arquivos que eu não quero dar push no github.
+
+## 6. Git Cached
+- Caso eu dê push em uma pasta ou arquivo no github e depois pretendo tirar, isto é, colocar no .gitignore, eu dou um comando no git da seguinte forma:
+
+    git rm -r --cached .
