@@ -6,7 +6,7 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
 
 ## 2. Adicionando repositório no github
 - Ao acessar sua conta no github, clique no sinal de '+' disponível no canto superior direito da página, em seguida, 'new repository'.
-- Insira o nome do seu repositório e clique em create repository
+- Insira o nome do seu repositório e clique em 'create repository'
 - Ao criar o repositório, siga as isntruções disponíveis para configurar o git.
 
 ## 3. Configurando o git
