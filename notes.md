@@ -38,3 +38,6 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
 -Ao contrário do gitignore, o gitkeep serve para preservar pastas sem conteúdo, com o intuito de mostrá-las no github. Sem o gitkeep, pastas vazias não aparecem. Para criar o gitkeep, basta criar uma pasta vazia e incluir o seguinte arquivo dentro dela:
 
     .gitkeep
+
+## Historico de Commits no Github
+- Para visualizar o histórico de commits pushados para o github, basta no número de commits realizados na parte superior direita.
