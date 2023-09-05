@@ -20,7 +20,7 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
 3.3: empurrando o repositório da main para o github
     - git push -u origin main
 
-## 4. Atualizando versões do repositório no Github
+## 4. Git Push: Atualizando versões do repositório no Github
 - Sempre que editar as informações do seu repositório, você poderá atualizar a versão no github através do passo a passo:
     git add .
     git commit -m "new atualization"
@@ -43,3 +43,14 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
 - Para visualizar o histórico de commits pushados para o github, basta no número de commits realizados na parte superior direita.
 
 ## 9. Git Clone
+- O git clone serve para você continuar editando seu repositório de onde parou através de outra máquina. Dessa forma, não será necessário baixar o repositório do githib, apenas clonar e continuar sua edição. Atenção às instruções:
+* 9.1: Copiar SSH do repositório
+    Aqui você irá copiar o SSH do seu repositório no gtihub
+* 9.2: Clonar o repositório no terminal git
+    Em seguida irá digitar o seguinte comando:
+        
+        cd pasta/endereçodapastanamaquina (aqui você pode simplesmente digitar cd e arrastar a pasta onde quer continuar editando seu repositório)
+
+        git clone git@github.com:joaolucasre/learningGithub.git (exemplo de ssh colado)
+* 9.3 inclua o repositório clonado no vscode e continue a editar
+    Por fim, você irá adicionar o repositório no vscode e continuar editando. Para atualizar as versões no github, basta seguir as instruções anteriores.
