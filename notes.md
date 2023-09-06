@@ -54,3 +54,10 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
         git clone git@github.com:joaolucasre/learningGithub.git (exemplo de ssh colado)
 * 9.3 inclua o repositório clonado no vscode e continue a editar
     Por fim, você irá adicionar o repositório no vscode e continuar editando. Para atualizar as versões no github, basta seguir as instruções anteriores.
+
+## 10. Git Pull
+- Este comando serve para atualizar as edições feitas no seu repositório pelo github na sua máquina ou em outra que você esteja usando para continuar a realizar o seu projeto.
+    * 10.1 Git Remote --v
+        Este comando serve para você saber se o repositório está sincronizado com a máquina e o github. Se aparecer (fetch) e (push) nas duas linhas abaixo, respectivamente, está tudo certo.
+    * 10.2 Edições feitas diretamente no github
+        Caso você ou outra pessoa edite algum arquivo no repositório que você está trabalhando no github, use o git pull para sincronizar com a maquina.
