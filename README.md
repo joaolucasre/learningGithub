@@ -19,9 +19,12 @@ Aqui você deve criar o seu usuário no git com nome e email, leia as instruçõ
     - git config --list (se necessário aperte Enter até aparecer (END), em seguida aperte a tecla 'Q' para voltar pro master/main)
 
 ### 3. Adicionando arquivos
-    #### 3.1 Todos os arquivos
+#### 3.1 Todos os arquivos
+    
     - git add .
-    #### 3.2 Um arquivo específico (ex.: html)
+    
+#### 3.2 Um arquivo específico (ex.: html)
+    
     - git add index.html
 
 ### 4. Criando o Commit
