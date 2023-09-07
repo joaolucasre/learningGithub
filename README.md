@@ -90,7 +90,7 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
     git branch -M main
 3.2: adicionando o repositório github através da chave SSH
     - Adicione a origem do seu repositório no github através do comando:
-    git remote add origin git@github.com:joaolucasre/example.git
+    git remote add origin git@github.com:idgithubouemail/example.git
 3.3: empurrando o repositório da main para o github
     - git push -u origin main
 
@@ -125,7 +125,7 @@ https://efficient-sloth-d85.notion.site/Configurando-SSH-f4996d82d1a242709b789fc
         
         cd pasta/endereçodapastanamaquina (aqui você pode simplesmente digitar cd e arrastar a pasta onde quer continuar editando seu repositório)
 
-        git clone git@github.com:joaolucasre/learningGithub.git (exemplo de ssh colado)
+        git clone git@github.com:idgithubouemail/learningGithub.git (exemplo de ssh colado)
 * 9.3 inclua o repositório clonado no vscode e continue a editar
     Por fim, você irá adicionar o repositório no vscode e continuar editando. Para atualizar as versões no github, basta seguir as instruções anteriores.
 
