@@ -11,7 +11,7 @@
 ### 2. Configurando o Git
 Aqui você deve criar o seu usuário no git com nome e email, leia as instruções a baixo:
 - git config --global
-    2.1 name
+    #### 2.1 name
     - git congig --global user.name "nome"
     2.2 email
     - git congig --global user.email "email@mail.com"
