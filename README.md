@@ -12,9 +12,9 @@
 Aqui você deve criar o seu usuário no git com nome e email, leia as instruções a baixo:
 - git config --global
     #### 2.1 name
-    - git congig --global user.name "nome"
+    - git config --global user.name "nome"
     #### 2.2 email
-    - git congig --global user.email "email@mail.com"
+    - git config --global user.email "email@mail.com"
     #### 2.3 validar se as configurações foram registradas
     - git config --list (se necessário aperte Enter até aparecer (END), em seguida aperte a tecla 'Q' para voltar pro master/main)
 
